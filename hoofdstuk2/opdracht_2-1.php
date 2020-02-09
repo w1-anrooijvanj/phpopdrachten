@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>
-        Opdracht X.X
+        Opdracht 2.1
     </title>
     <meta name="description" content="Omschrijving over de website">
     <meta name="keywords" content="sleutelwoord1,sleutelwoord2,etc">
