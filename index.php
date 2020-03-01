@@ -1,6 +1,3 @@
-<?php
-    include "includes/header.php";
-?>
 
 <!doctype HTML>
 <html lang="en">
@@ -8,7 +5,7 @@
     <meta name="description" content="Omschrijving over de website">
     <meta name="keywords" content="sleutelwoord1,sleutelwoord2,etc">
     <meta charset="utf-8">
-    <link href="includes/nav.css" rel="stylesheet" type="text/css">
+    <link href="includes/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <header>
@@ -49,3 +46,10 @@
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
 </main>
+<?php include 'hoofdstuk3/variabelen.php'; ?>
+</main>
+<footer>
+    <?php echo $name.' © '.$year;?>
+</footer>
+</body>
+</html>
