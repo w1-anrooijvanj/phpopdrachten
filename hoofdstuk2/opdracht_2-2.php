@@ -6,7 +6,6 @@
  * File: opdracht_2-2
  */
 include "../includes/header.php";
-include "../includes/nav.php";
 ?>
 <?php
 $text1 ="Hallo ";
@@ -23,3 +22,4 @@ $text7 = "fijn toch?";
 <p><?php echo($text3.$text6.$text7);?></p>
 <p><?php echo($text5.$text4.$text2.$text3);?></p>
 
+<?php include "../includes/footer.php"; ?>

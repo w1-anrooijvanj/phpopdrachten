@@ -1,6 +1,5 @@
 <?php
     include "../includes/header.php";
-    include "../includes/nav.php";
     $evenement = "Elfstedentocht";
     $dialect = "Alvestêdetocht";
     $aantalKm = 200;
@@ -18,4 +17,5 @@
                 inmiddels ".$hoevaakTotaal." maal verreden en werd voor het eerst in ".$eersteKeer." gereden en
                 wordt maximaal ".$hoevaakPWinter." keer per winter gehouden.";
     echo "<p>".$verhaal."</p>";
+    include "../includes/footer.php";
 ?>

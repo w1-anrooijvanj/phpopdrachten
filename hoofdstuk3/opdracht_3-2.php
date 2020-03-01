@@ -1,6 +1,5 @@
 <?php
 include "../includes/header.php";
-include "../includes/nav.php";
 echo '<h3>Deel 1</h3>';
 $trafficLightColor = "groen";
 $ambulanceComing = false;
@@ -48,4 +47,5 @@ if($countryName=="België" and $currentAge<16){
 } else if($countryName=="Zweden" and $currentAge>=20){
     echo '<p>Je mag hier alle alchohol drinken.</p>';
 }
+include "../includes/footer.php";
 ?>

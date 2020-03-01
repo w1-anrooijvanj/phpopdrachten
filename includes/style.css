@@ -12,3 +12,9 @@ aside {
 h1{
     text-align: center;
 }
+main {
+    min-height: calc(100vh - 70px);
+}
+footer {
+    height: 50px;
+}

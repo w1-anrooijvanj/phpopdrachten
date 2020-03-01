@@ -1,7 +1,7 @@
 <?php
 include "../includes/header.php";
 
-echo("Hello world");
+//do stuff here
 
 include "../includes/footer.php";
 ?>
