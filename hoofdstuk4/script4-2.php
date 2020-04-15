@@ -20,8 +20,6 @@ switch ($courseName){
         $teacherName = "meneer Gijsbrechts";
         break;
     case "Javascript":
-        $teacherName = "meneer van de Wetering";
-        break;
     case "Database SQL":
         $teacherName = "meneer van de Wetering";
         break;

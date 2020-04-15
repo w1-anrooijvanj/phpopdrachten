@@ -2,7 +2,7 @@
 $task2 = "Lancering in:";
 $counter = 19;
 while($counter >= 0){
-    $task2=$task2.strval($counter).",";
+    $task2 = $task2 . strval($counter) . ",";
     $counter--;
 }
 $task3 = "Lancering in:";

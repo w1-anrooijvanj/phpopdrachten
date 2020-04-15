@@ -41,7 +41,7 @@
     </ul>
     </ul>
     <ul>
-        <li>Hoofstuk 4
+        <li>Hoofdstuk 4
             <ul>
                 <li>
                     <a href="../hoofdstuk4/opdracht_4-2.php">Opdracht 4.2</a>
@@ -54,6 +54,25 @@
                 </li>
             </ul>
         </li>
+    </ul>
+    <ul>
+        <li>Hoofstuk 5
+            <ul>
+                <li>
+                    <a href="../hoofdstuk5/opdracht_5-1.php">Opdracht 5.1</a>
+                </li>
+                <li>
+                    <a href="../hoofdstuk5/opdracht_5-2.php">Opdracht 5.2</a>
+                </li>
+                <li>
+                    <a href="../hoofdstuk5/opdracht_5-3.php">Opdracht 5.3</a>
+                </li>
+                <li>
+                    <a href="../hoofdstuk5/opdracht_5-4.php">Opdracht 5.4</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
