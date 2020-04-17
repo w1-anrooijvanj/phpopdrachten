@@ -56,7 +56,7 @@
         </li>
     </ul>
     <ul>
-        <li>Hoofstuk 5
+        <li>Hoofdstuk 5
             <ul>
                 <li>
                     <a href="../hoofdstuk5/opdracht_5-1.php">Opdracht 5.1</a>
@@ -69,6 +69,15 @@
                 </li>
                 <li>
                     <a href="../hoofdstuk5/opdracht_5-4.php">Opdracht 5.4</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li>Eindopdracht 1
+            <ul>
+                <li>
+                    <a href="../Eindopdracht%201/login.php">Eindopdracht</a>
                 </li>
             </ul>
         </li>

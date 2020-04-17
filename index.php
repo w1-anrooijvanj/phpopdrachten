@@ -75,6 +75,15 @@
             </ul>
         </li>
     </ul>
+    <ul>
+        <li>Eindopdracht 1
+            <ul>
+                <li>
+                    <a href="Eindopdracht%201/login.php">Eindopdracht</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
